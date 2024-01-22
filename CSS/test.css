@@ -1,0 +1,63 @@
+body{
+    background-color: lightskyblue;
+}
+table, td, th{
+    border: purple 2px solid;
+    border-collapse: collapse;
+}
+#five{
+    background-color: chocolate;
+}
+.new{
+    text-align: center;
+    font-family: Chilanka, serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: rebeccapurple;
+}
+#six{
+    background-color: #12d5eb;
+}
+.begin{
+    font-family: Waree, serif;
+    border: darkslategray 2px solid;
+    border-radius: 15px 5px;
+    padding: 20px;
+}
+#seven{
+    background-color: forestgreen;
+}
+.img{
+    border: black 2px solid;
+    border-radius: 20px;
+    width: 50%;
+    height: 450px;
+}
+#eight{
+    background-image: url("images/engine.jpeg");
+}
+.dmn{
+border: black 2px solid;
+    border-radius: 25px;
+    width: 69%;
+    height: 450px;
+}
+#nine{
+    background-color: magenta;
+    font-weight: bolder;
+    font-family: "Century Schoolbook L", serif;
+    font-size: 45px;
+    text-align: center;
+}
+.new:hover{
+    color: black;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: darkred;
+}
+a:hover{
+    font-size: 20px;
+    border-bottom: darkred 2px solid;
+}

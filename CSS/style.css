@@ -1,0 +1,40 @@
+body{
+    background-color: turquoise;
+    /*text-align: center;*/
+    /*padding: 55px;*/
+    margin: 95px;
+}
+p{
+    color: darkred;
+}
+.one{
+    color: blueviolet;
+    font-size: 25px;
+    font-family: Purisa, serif;
+    font-weight: bold;
+}
+.two{
+    border: purple 2px solid;
+    border-radius: 15px 5px 15px 5px;
+    padding: 20px;
+}
+.know{
+    border-radius: 20px;
+    width: 69%;
+    height: 450px;
+}
+a{
+    text-decoration: none;
+    color: forestgreen;
+}
+a:hover{
+    color: midnightblue;
+    font-size: 17px;
+    border-bottom: midnightblue 2px solid;
+}
+#one{
+    background-color: #12d5eb;
+}
+#one:hover{
+    background-color: limegreen;
+}

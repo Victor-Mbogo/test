@@ -1,0 +1,21 @@
+#contactForm {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#contactForm label {
+  display: block;
+  margin-top: 10px;
+}
+
+#contactForm input[type="text"],
+#contactForm input[type="email"],
+#contactForm textarea {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+#contactForm input[type="submit"] {
+  margin-top: 10px;
+}
